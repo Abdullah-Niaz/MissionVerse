@@ -25,7 +25,7 @@ npm run dev
 
 Open <http://localhost:5173> to play or <http://127.0.0.1:8000/docs> to explore the API. The Vite development server forwards game requests to port 8000. After both sets of dependencies are installed, Windows users can also start the project with `run_dev.bat`.
 
-## Deploy to Vercel
+## Deploy to Vercel 🔗
 
 1. Push the project files, including the root deployment configuration and frontend lockfile, to [MissionVerse on GitHub](https://github.com/Abdullah-Niaz/MissionVerse).
 2. In Vercel, choose **Add New > Project**, import that repository, and leave **Root Directory** at the repository root. Use the **Other** framework preset and leave build settings at their repository defaults.
