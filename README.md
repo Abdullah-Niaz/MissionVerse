@@ -75,7 +75,7 @@ npm run dev
 
 Open [MissionVerse](http://localhost:5173) to play or [the API explorer](http://127.0.0.1:8000/docs) to try a mission or mentor request. On Windows, subsequent sessions can launch both servers with `run_dev.bat` from the repository root.
 
-## Deploy to Vercel
+## Deploy to Vercel 🔗
 
 Import the GitHub repository into Vercel. Select **Other** as the framework preset, keep **Root Directory** at the repository root, and deploy. The [deployment configuration](vercel.json) builds the game into `frontend/dist` and routes `/api/v1/*` to the [Python function](api/index.py).
 
