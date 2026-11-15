@@ -1,0 +1,54 @@
+{
+  "topics": {
+    "lunar_gravity": {
+      "concept": "1/6th Earth Gravity",
+      "hint": "The Moon has less mass than Earth, so its gravitational pull is only about 16.6% as strong. Try moving around to feel how much farther you can glide with each step!",
+      "explanation": "Gravity depends on an object's mass. Because the Moon is smaller and has only about 1% of Earth's mass, its gravitational pull is roughly one-sixth of Earth's. Astronauts on the Moon weighed six times less than they did on Earth, allowing them to carry heavy life-support backpacks with ease."
+    },
+    "lunar_lander": {
+      "concept": "Apollo & Artemis Lunar Landers",
+      "hint": "Look at the golden thermal foil and the wide circular footpads on the lander. Why do you think the feet are shaped like dishes?",
+      "explanation": "The Lunar Module was specially designed without aerodynamic streamlining because there is no atmosphere on the Moon. The large dish-shaped footpads spread out the lander's weight so it wouldn't sink into deep, powdery lunar dust upon touchdown."
+    },
+    "impact_craters": {
+      "concept": "Impact Crater Preservation",
+      "hint": "Notice how sharp and deep the crater walls are. What causes these craters, and why haven't they disappeared over time?",
+      "explanation": "Craters are formed when meteoroids and asteroids crash into the lunar surface at cosmic speeds (often over 40,000 km/h). Because the Moon has no atmosphere, weather, rain, or flowing water, there is no wind or water erosion to wear them away. Craters formed 3 billion years ago look almost the same today!"
+    },
+    "lunar_regolith": {
+      "concept": "Lunar Dust & Volcanic Glass",
+      "hint": "Examine the dark powdery soil. In space, without wind or water, rock fragments don't get rounded like river pebbles.",
+      "explanation": "Lunar soil, called regolith, is created by billions of years of micrometeorites pulverizing the Moon's crust into tiny, razor-sharp particles of basalt and glass. It clings to spacesuits like static cling and smells a bit like spent gunpowder according to Apollo astronauts."
+    },
+    "solar_array": {
+      "concept": "Solar Power & Extreme Temperatures",
+      "hint": "The solar panels must rotate to face the Sun. Remember that on the Moon, daytime lasts about 14 Earth days!",
+      "explanation": "Because the Moon rotates slowly, lunar day and night each last about two weeks. During the day, temperatures soar to +120°C (+250°F), while at night they plunge to -130°C (-200°F). Solar arrays capture abundant sunlight during the long day and charge massive storage batteries for the long night."
+    },
+    "lunar_rover": {
+      "concept": "Extraterrestrial Vehicle Traversal",
+      "hint": "Take a look at the rover wheels. Can you spot why they are made of woven metal mesh instead of rubber tires?",
+      "explanation": "Standard rubber tires would freeze, become brittle, and crack in the extreme cold of space, and pressurized air tires could explode in the vacuum. The Lunar Roving Vehicle uses wheels woven from zinc-coated piano wire with titanium treads for excellent grip on loose regolith."
+    },
+    "iron_oxide": {
+      "concept": "Why Mars is the Red Planet",
+      "hint": "Look closely at the rusty reddish soil. What everyday metal turns red when it rusts on Earth?",
+      "explanation": "Mars appears reddish-orange because its surface is covered in iron oxide—the exact same chemical compound as rust! Billions of years ago, iron in Martian rocks oxidized (reacted with ancient water and oxygen), creating a layer of rusty dust that winds have blown across the entire globe."
+    },
+    "mars_atmosphere": {
+      "concept": "Thin Carbon Dioxide Atmosphere",
+      "hint": "Check the weather barometer. Notice how low the atmospheric pressure is compared to sea level on Earth.",
+      "explanation": "The Martian atmosphere is very thin—less than 1% of Earth's atmospheric pressure at sea level. It is 95% carbon dioxide ($CO_2$), which means humans cannot breathe there without pressurized spacesuits and an oxygen supply."
+    },
+    "mars_water": {
+      "concept": "Ancient Riverbeds & Subsurface Ice",
+      "hint": "Look at the sinuous canyon valley. The winding shape looks just like dried river channels on Earth!",
+      "explanation": "Rovers and satellites have discovered dry riverbeds, lake deltas, and water-smoothed pebbles all over Mars, showing that billions of years ago Mars had rivers, lakes, and perhaps an ocean. Today, that water is frozen as polar ice caps and trapped underground as permafrost."
+    },
+    "mars_dust_storms": {
+      "concept": "Planetary Dust Storms & Atmospheric Waves",
+      "hint": "When sunlight warms the Martian soil, air columns rise and lift fine dust into the sky, creating towering dust devils.",
+      "explanation": "During Martian spring and summer, solar heating creates strong convection winds that pick up tiny dust particles. Sometimes, smaller dust storms merge into global planet-encircling storms that can envelop the entire planet and block out 99% of sunlight for weeks."
+    }
+  }
+}
